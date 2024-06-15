@@ -2,7 +2,7 @@
 
 **Ad Campaign Analysis Report**
 
-**1. Objective**
+## 1. Objective
 
 The objective of this report is to analyze the performance of various advertising campaigns executed from January 1, 2024, to March 30, 2024. This includes examining metrics such as total spend, total purchase value, ROAS (Return on Ad Spend), conversion rates, and other key performance indicators to determine the effectiveness and profitability of the campaigns.
 
@@ -44,8 +44,7 @@ The percentage of ad interactions (e.g., clicks) that result in a desired action
  The total number of purchases made by different audience segments, such as fresh (new) or retargeting (returning) audiences. This helps in understanding which audience type is more responsive to the campaigns.
 
 
- 
- ## Conclusion
+## Conclusion
 **The analysis of the ad campaigns highlights the following key points:**
 
 **Highest Spending Campaigns:**
